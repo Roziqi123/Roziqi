@@ -1,6 +1,9 @@
 # SistemOperasi
-tugas promile 4 LALU MUH. HABIB SYA'BANY 200602076
+PROMILE ROZIQI ADRYANSYAH AKBAR 200602136
 
 
-https://user-images.githubusercontent.com/95573541/147378169-ca219aee-025c-4f5e-b863-a86056ef8f6d.mp4
+
+
+https://user-images.githubusercontent.com/95607523/147387205-ba18c1a6-df0a-4b86-ad19-b5eaa4f7bf64.mp4
+
 
